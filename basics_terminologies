@@ -1,0 +1,58 @@
+Q.1) What is Machine Learning?
+      Machine learning enables computers to act and make data-driven decisions rather 
+      than being explicitly programmed to carry out a certain task.
+Q.2) What is Data Science?
+      Data scientists combine statistics, mathematics, programming, problem-solving, capturing data in ingenious ways, 
+      the ability to look at things differently to find patterns, along with the activities of cleansing, preparing, and 
+      aligning the data.
+Q.3) What is Data Mining?
+      Data mining is the process of sorting through large data sets to identify patterns and establish 
+      relationships to solve problems through data analysis. 
+Q.4) What is Data Analytics?
+      Data Analytics is the science of examining raw data with the purpose of finding patterns and drawing 
+      conclusions about that information by applying an algorithmic.
+Q.5) What are the tools used for the Data Mining?
+    *Tools are as follows:
+      -> WEKA:  Weka is a Java based free and open source software licensed under the GNU GPL 
+                and available for use on Linux, Mac OS X and Windows. It includes visualization 
+                and predictive analysis and modeling techniques, clustering, association, 
+                regression and classification
+      -> R-Programming Tools: This is written in C and FORTRAN, and allows the data miners to write 
+                              scripts just like a programming language/platform. Hence, it is used 
+                              to make statistical and analytical software for data mining.
+      -> Python based Orange: Python is very popular due to ease of use and its powerful features. 
+                              Orange is an open source tool that is written in Python with useful 
+                              data analytics, text analysis, and machine-learning features embedded 
+                              in a visual programming interface.
+Q.6) Explain the Limitations of the tools which you have listed in the above questions answer.
+      -> WEKA
+          *_  In Clustering algorithm, it is sometimes difficult to compare the quality of the clusters produced.
+      -> R-Programming Tools
+          *_  R is a slow programming language: This tends to be one of the recurrent complaints 
+              mentioned by developers when asked about the drawbacks of programming with R.
+      -> Python based Orange
+          *_  Python doesn't have good documentation: Some programmers complain about the lack of good documentation 
+              for Python, particularly compared to other programming languages like PHP and Java.
+Q.7) What are the tasks in the Machine Learning?
+      -> Regression:  The aim is to predict the value of a continous response variable.
+      -> Classification:  If we have data, say pictures of animals, we can classify them. This animal is a cat, 
+                          that animal is a dog and so on. A computer can do the same task using a Machine Learning 
+                          algorithm that’s designed for the classification task.
+      -> Clustering: Clustering is to create groups of data called clusters.
+Q.8) Give at least 5 examples of the tasks which you have given in above question.
+      *Regression:
+        ->Kernel regression
+        ->Regression trees
+        ->Linear regression
+        ->Support vector regression
+      *Classification:
+        ->K-Nearest Neighbors
+        ->Decision trees
+        ->Naive Bayes
+        ->Deep learning
+        ->Boosted trees
+      *Clustering:
+        ->Mean-shift
+        ->Hierarchical clustering
+        ->K-means
+        ->Topic models
